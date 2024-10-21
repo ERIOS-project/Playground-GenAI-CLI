@@ -12,7 +12,6 @@ Playground-GenAI-CLI is a command-line interface (CLI) tool for interacting with
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Requirements](#requirements)
-- [License](#license)
 
 ## Installation
 
